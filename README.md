@@ -3,3 +3,6 @@
 
 ### Enlace para jugar Pac-Man
 ```https://pacmangratis.net/```
+
+### Imagen del juego
+![pac-man](/img/img.png)
