@@ -6,3 +6,6 @@
 
 ### Imagen del juego
 ![pac-man](/img/img.png)
+
+### Fantasmas:
+- [Blinky](/blinky.md)
