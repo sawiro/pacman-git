@@ -11,3 +11,4 @@
 - [Blinky](/blinky.md)
 - [Plinky](/plinky.md)
 - [Inky](/linky.md)
+- [Clyde](/clyde.md)
