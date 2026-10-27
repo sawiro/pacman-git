@@ -10,3 +10,4 @@
 ### Fantasmas:
 - [Blinky](/blinky.md)
 - [Plinky](/plinky.md)
+- [Inky](/linky.md)
